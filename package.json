@@ -1,0 +1,21 @@
+{
+    "name": "oled-pure-black---vscode",
+    "displayName": "Dark+ Pure Black (OLED)",
+    "description": "Default dark+ theme with a pure black background. This is useful for power saving and longer life when using an OLED display.",
+    "version": "1.0.0",
+    "engines": {
+        "vscode": "^1.62.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Dark+ Pure Black (OLED)",
+                "uiTheme": "vs-dark",
+                "path": "./themes/OLED Pure Black - VSCode-color-theme.json"
+            }
+        ]
+    }
+}
