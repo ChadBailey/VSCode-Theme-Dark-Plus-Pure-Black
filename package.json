@@ -2,6 +2,10 @@
     "name": "oled-pure-black---vscode",
     "displayName": "Dark+ Pure Black (OLED)",
     "description": "Default dark+ theme with a pure black background. This is useful for power saving and longer life when using an OLED display.",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/ChadBailey/VSCode-Theme-Dark-Plus-Pure-Black"
+    },
     "version": "1.0.0",
     "engines": {
         "vscode": "^1.62.0"
