@@ -6,7 +6,8 @@
         "type": "git",
         "url": "https://github.com/ChadBailey/VSCode-Theme-Dark-Plus-Pure-Black"
     },
-    "version": "1.0.0",
+    "publisher": "ChadBaileyVh",
+    "version": "1.0.1",
     "engines": {
         "vscode": "^1.62.0"
     },
