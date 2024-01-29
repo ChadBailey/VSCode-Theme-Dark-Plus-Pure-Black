@@ -15,7 +15,7 @@
 		"menu.border": "#424242",
 		"sideBar.background": "#000000",
 		"statusBar.background": "#000000",
-		"tab.inactiveBackground": "#000000",
+		"tab.inactiveBackground": "#424242",
 		"titleBar.activeBackground": "#000000",
 		"titleBar.inactiveBackground": "#000000",
 		// "activityBarBadge.background": "#007acc",
